@@ -54,5 +54,6 @@ This program asks the user for a number and uses the Python math module to calcu
 - No external libraries are required.
 
 ### 🚀 How to Run
-- Clone the repository 
-- Run the script using:> python filename.py
+- Clone the repository
+- open the script under folder 
+- Run the script using:> python -u ".\Assignment1\file_name.py"
