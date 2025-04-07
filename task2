@@ -1,0 +1,23 @@
+def get_valid_name(prompt):
+    while True:
+        name = input(prompt).strip()
+        if not name:
+            print("Input cannot be empty. Please try again.")
+        elif not name.replace(" ", "").isalpha():
+            print("Name should only contain letters. Please try again.")
+        else:
+            return name
+
+try:
+    # Step 1: Take user's first name and last name with validation
+    first_name = get_valid_name("Enter your first name: ")
+    last_name = get_valid_name("Enter your last name: ")
+
+    # Step 2: Concatenate the names
+    full_name = first_name + " " + last_name
+
+    # Step 3: Personalized greeting
+    print(f"Hello, {full_name}! Welcome to the Python program.")
+
+except Exception as e:
+    print("An unexpected error occurred:", str(e))
