@@ -1,11 +1,12 @@
 # Python Input and Error Handling Examples
 
 This repository contains two simple Python programs demonstrating the use of input handling, validation, and exception management.
-
+### Assignment 1
+--------------------------
 ## 📌 Tasks Covered
 
 ### Task 1: Perform Basic Mathematical Operations with Error Handling
-
+**Description**
 This script takes two integer inputs from the user and performs basic arithmetic operations:
 - Addition
 - Subtraction
@@ -24,6 +25,16 @@ This script collects a user's first and last name with input validation, then di
 **Validation Rules:**
 - Name fields cannot be empty
 - Names must only contain alphabetic characters (spaces allowed between multiple names)
+
+  ### Assignment 2
+  --------------------
+  ### Task 1: Check if a Number is Even or Odd
+**Description:**  
+This program prompts the user to enter an integer and checks if it is even or odd using an `if-else` statement.
+
+### Task 2: Sum of Integers from 1 to 50 Using a Loop
+**Description:**
+This program calculates the sum of all integers from 1 to 50 using a for loop and displays the result.
 
 ### 🛠 Requirements
 - Python 3.x
