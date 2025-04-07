@@ -53,4 +53,4 @@ No external libraries are required.
 ### 🚀 How to Run
 Clone the repository
 open the script under folder
-Run the script using:> python -u ".\Assignment1\file_name.py"
+Run the script using:> python -u ".\file_name.py"
