@@ -1,5 +1,5 @@
-# Python Input and Error Handling Examples
-This repository contains two simple Python programs demonstrating the use of input handling, validation, and exception management.
+# Python Assignments
+This repository contains assignments of python programming.
 
 ### Assignment 1
 ### Task 1: Perform Basic Mathematical Operations with Error Handling
