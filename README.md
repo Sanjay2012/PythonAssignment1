@@ -55,6 +55,18 @@ This program contents from sample.txt file.
 ***Description:***
  This program is to write and append the user data to the file and finally read them.
 
+ ### Assignment 5
+### Task 1: Write a python program to create Student Marks Dictionary (task1_createStudentsDictionary.py)
+***Description:***
+- Creates a dictionary of student names and marks.
+- Prompts the user to input a student's name.
+- Displays the student's marks or a message if the student is not found.
+
+### Task 2: Write a pythoin program to create List Slicing Demonstration (task2_ListSlicing.py)
+***Description:***
+- Creates a list of numbers from 1 to 10.
+- Extracts the first five elements and reverses them.
+- Prints the extracted and reversed lists.
 
 ### 🛠 Requirements
 Python 3.x
