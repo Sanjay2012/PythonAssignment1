@@ -2,7 +2,6 @@
 This repository contains two simple Python programs demonstrating the use of input handling, validation, and exception management.
 
 ### Assignment 1
-## 📌 Tasks Covered
 ### Task 1: Perform Basic Mathematical Operations with Error Handling
 ***Description*** 
 This script takes two integer inputs from the user and performs basic arithmetic operations:
@@ -45,6 +44,16 @@ This program defines a function to compute the factorial of a given number using
 Square root
 Natural logarithm (log base e)
 Sine (in radians)
+
+### Assignment 4
+### Task 1: Read contents of a file
+***Description:***
+This program contents from sample.txt file.
+
+### Task 2: Write and append data to the file
+***Description:***
+ This program is to write and append the user data to the file and finally read them.
+
 
 ### 🛠 Requirements
 Python 3.x
